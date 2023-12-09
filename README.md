@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishabh03k
 - 👀 I’m interested in creating websites with code
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on web developmentt
+- 🌱 I’m currently learning Java,python
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me https://www.instagram.com/rishabh__.07/
 
 <!---
