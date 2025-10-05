@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rishabh Kumar. and I'm a .Passionate Software Developer, from Vijayawada, India.</h2>
+<h2 align="left">Hi 👋! My name is Rishabh Kumar. From Vijayawada, India.</h2>
 
 ###
 
@@ -79,6 +79,92 @@
 
 ###
 
+
+###
+
+
+###
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=fff)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=fff)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+### ⛓️ Blockchain
+![Cardano CLI](https://img.shields.io/badge/Cardano_CLI-0133AD?style=for-the-badge&logo=cardano&logoColor=fff)
+![Lucid.js](https://img.shields.io/badge/Lucid.js-121D33?style=for-the-badge&logo=javascript&logoColor=fff)
+![Blockfrost API](https://img.shields.io/badge/Blockfrost_API-000000?style=for-the-badge&logo=blockchain.com&logoColor=fff)
+![Mesh.js](https://img.shields.io/badge/Mesh.js-1E88E5?style=for-the-badge&logo=javascript&logoColor=fff)
+![Pinata SDK](https://img.shields.io/badge/Pinata_SDK-F5DE19?style=for-the-badge&logo=pinata&logoColor=000)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+
+---
+
+## 🔥 Featured Projects
+
+### 📝 [Personal Finance Manager](#)
+**MERN Stack | JWT Auth | Dark Mode**  
+A feature-rich blogging platform with authentication and responsive dark theme.  
+🖇️ [GitHub](#)
+
+---
+
+### 🌦️ [Tour & Travel Web app](#)
+**React | OpenWeather API | Redux**  
+Interactive weather forecasting dashboard using real-time API data.  
+🖇️ [GitHub](#)
+
+---
+
+### 🔑 [Music player system](#)
+**Cardano | TypeScript | Lucid Evolution | npm Package | ESM + CJS Compatible**  
+An open-source npm package for secure Cardano key conversions.  
+🖇️ [GitHub](#)
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering**  
+📍 *KL University*  
+🎯 *CGPA: 9.0*  
+📘 *Relevant Coursework:* DSA, DBMS, OS, Computer Networks
+
+---
+
+## 📫 Let's Connect
+
 <div align="left">
   <a href="https://www.youtube.com/@Rishabh03k" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -96,6 +182,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
 
